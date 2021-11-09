@@ -1,0 +1,421 @@
+{
+  "userCollections": [
+    {
+      "userName": "loobylawn",
+      "id": 1,
+      "albumSuggestions": [
+        {
+          "albumSuggestions": "Uncle Ben loves \"Blessed Black Wings\", too, and suggests you check out \"Punir\" by Fange!"
+        },
+        {
+          "albumSuggestions": "Uncle Ben loves \"Tago Mago\", too, and suggests you check out \"Yeti\" by Amon Duul!"
+        },
+        {
+          "albumSuggestions": "Uncle Ben loves \"Through Silver In Blood\", too, and suggests you check out \"Paracletus\" by DSO!"
+        }
+      ],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "Can",
+          "collectionName": "Future Days (Remastered)",
+          "primaryGenreName": "Rock",
+          "releaseDate": "1998",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music/v4/27/d3/9d/27d39dba-e854-4f4a-5b8b-fcec6fb64739/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 2,
+          "artistName": "Meridian Brothers",
+          "collectionName": "Desesperanza",
+          "primaryGenreName": "Música tropical",
+          "releaseDate": "2012",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ab/82/01/ab8201f7-8b67-5325-a350-898fd76005e4/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 3,
+          "artistName": "Oranssi Pazuzu",
+          "collectionName": "Värähtelijä",
+          "primaryGenreName": "Death Metal/Black Metal",
+          "releaseDate": "2016",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music69/v4/5a/b2/2a/5ab22aad-6a25-bd65-3d5d-1f5ddd9d7077/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 4,
+          "artistName": "Neurosis",
+          "collectionName": "Through Silver In Blood",
+          "primaryGenreName": "Metal",
+          "releaseDate": "1996",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ee/87/ca/ee87ca4c-9a1f-ca20-2d26-70d5ec4dc488/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 5,
+          "artistName": "D.D Dumbo",
+          "collectionName": "Utopia Defeated",
+          "primaryGenreName": "Alternative",
+          "releaseDate": "2016",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music20/v4/ca/94/d7/ca94d769-572e-2ad4-c0bf-221f646ca400/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 6,
+          "artistName": "Meridian Brothers",
+          "collectionName": "Cumbia Siglo XXI",
+          "primaryGenreName": "Música tropical",
+          "releaseDate": "2020",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/5e/96/32/5e96324d-8d59-f825-7162-db225613daba/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 7,
+          "artistName": "High On Fire",
+          "collectionName": "Blessed Black Wings",
+          "primaryGenreName": "Metal",
+          "releaseDate": "2005",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music/v4/d8/34/6e/d8346e7e-fb84-5ead-26a6-3d11d6ac0713/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 8,
+          "artistName": "Can",
+          "collectionName": "Tago Mago",
+          "primaryGenreName": "Rock",
+          "releaseDate": "1971",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/01/09/2b/01092baf-6f99-ca43-5561-798a6e2bf58c/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 9,
+          "artistName": "Bear In Heaven",
+          "collectionName": "Beast Rest Forth Mouth",
+          "primaryGenreName": "Alternative",
+          "releaseDate": "2009",
+          "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/b4/70/5bb47052-352a-bc04-2213-5e1cf4a63c53/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 10,
+          "artistName": "Wolf Parade",
+          "collectionName": "Apologies to the Queen Mary",
+          "primaryGenreName": "Alternative",
+          "releaseDate": "2005",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music6/v4/c7/8d/49/c78d4900-040b-b9be-408b-08bd9a151306/source/100x100bb.jpg"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": "Creative, innovative, experimental, playful, with trance-inducting grooves. Journey through space"
+        },
+        {
+          "ranking": 2,
+          "comment": "Sounds like an alien tried hallucinogens for the first time."
+        },
+        {
+          "ranking": 3,
+          "comment": "Space rock, sludge, black metal, ambient, and all done masterfully."
+        },
+        {
+          "ranking": 4,
+          "comment": ""
+        },
+        {
+          "ranking": 5,
+          "comment": "An upbeat modern mixture of Remain in Light and Graceland."
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": ""
+        },
+        {
+          "ranking": 8,
+          "comment": "Halleluwah! 20 minutes of repetition that never once is boring."
+        },
+        {
+          "ranking": 9,
+          "comment": ""
+        },
+        {
+          "ranking": 10,
+          "comment": ""
+        }
+      ]
+    },
+    {
+      "userName": "Barry's Apples",
+      "albumSuggestions": [
+        {
+          "albumSuggestions": "chris loves \"Reign in Blood\", too, and suggests you check out \"Rust in Peace\" by Megadeth!"
+        },
+        {
+          "albumSuggestions": "Uncle Ben loves \"Ege Bamyasi\", too, and suggests you check out \"Deceit\" by This Heat!"
+        },
+        {
+          "albumSuggestions": "fred loves \"roots\", too, and suggests you check out \"Cowboys From Hell\" by Pantera!"
+        },
+        {
+          "albumSuggestions": "peter loves \"Blue Album\", too, and suggests you check out \"Green Album\" by Weezer!"
+        },
+        {
+          "albumSuggestions": "steve loves \"Graceland\", too, and suggests you check out \"Paracletus\" by DSO!"
+        }
+      ],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "Can",
+          "collectionName": "Ege Bamyasi (Remastered)",
+          "primaryGenreName": "Rock",
+          "releaseDate": "1998",
+          "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/02/17/6d/02176d35-c722-f504-d0a8-2ddc59ed3b8f/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 2,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 3,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 4,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 5,
+          "artistName": "Slayer",
+          "collectionName": "Reign In Blood",
+          "primaryGenreName": "Metal",
+          "releaseDate": "1986",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/33/16/d0/3316d05c-91fd-b179-1129-af1eef7a04ff/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 6,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 7,
+          "artistName": "Sepultura",
+          "collectionName": "Roots (Remastered)",
+          "primaryGenreName": "Metal",
+          "releaseDate": "1996",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music128/v4/b5/85/db/b585dbdb-461a-6ee7-0c36-016a38ef2573/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 8,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 9,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 10,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": ""
+        },
+        {
+          "ranking": 2,
+          "comment": ""
+        },
+        {
+          "ranking": 3,
+          "comment": ""
+        },
+        {
+          "ranking": 4,
+          "comment": ""
+        },
+        {
+          "ranking": 5,
+          "comment": ""
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": "One of my first metal albums. That good? Who knows?"
+        },
+        {
+          "ranking": 8,
+          "comment": ""
+        },
+        {
+          "ranking": 9,
+          "comment": ""
+        },
+        {
+          "ranking": 10,
+          "comment": ""
+        }
+      ],
+      "id": 20
+    },
+    {
+      "userName": "Anto",
+      "albumSuggestions": [
+        {
+          "albumSuggestions": "chris loves \"Parachutes\", too, and suggests you check out \"Sweet Disposition\" by The Temper Trap!"
+        }
+      ],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 2,
+          "artistName": "Coldplay",
+          "collectionName": "Parachutes",
+          "primaryGenreName": "Alternative",
+          "releaseDate": "2000",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/81/fc/fe/81fcfe80-c1ff-e03f-7e8e-1782a2df5187/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 3,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 4,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 5,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 6,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 7,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 8,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 9,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 10,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": ""
+        },
+        {
+          "ranking": 2,
+          "comment": ""
+        },
+        {
+          "ranking": 3,
+          "comment": ""
+        },
+        {
+          "ranking": 4,
+          "comment": ""
+        },
+        {
+          "ranking": 5,
+          "comment": ""
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": ""
+        },
+        {
+          "ranking": 8,
+          "comment": ""
+        },
+        {
+          "ranking": 9,
+          "comment": ""
+        },
+        {
+          "ranking": 10,
+          "comment": ""
+        }
+      ],
+      "id": 22
+    }
+  ]
+}

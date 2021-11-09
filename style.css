@@ -1,0 +1,251 @@
+body {
+    background-image: url(images/miriana-doroban-u-iRjOMSpZaEE-unsplash.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    background-color: #B4F2FE;
+    font-family: 'Revalia', cursive;
+    color: white;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left; 
+}
+
+.button {
+    background-color: black;
+    font-family: 'Revalia', cursive;
+    color: white;
+    vertical-align: middle;
+}
+
+.submit-button {
+    background-color: black;
+    font-family: 'Revalia', cursive;
+    color: white;
+}
+
+input[type=text] {
+    text-align: left;
+    padding: 2px 2px;
+    margin: 3px 0;
+    box-sizing: border-box;
+    font-family: 'Revalia', cursive;
+  }
+
+input[name='reason'] {
+    width: 500px;
+}
+
+.header {
+    background-color: #B4F2FE; 
+    color: black;
+    text-align: center;
+    margin: auto;
+    border-radius: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 20px;
+    width:fit-content;
+    align-content: center;
+}
+
+#album-search-results {
+    background-color: white;
+    color: black;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top: 10px;
+    border-radius: 12px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: medium;
+    align-items: center;
+}
+
+#album-search-display {
+    background-color: white;
+    color: black;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 10px;
+    border-radius: 12px;
+    padding-left: 20px;
+    font-size: small;
+    align-items: center;
+}
+
+.album-render-div {
+    max-height:125px;
+    overflow: hidden;
+    width: 125px;
+    font-size:x-small;
+    text-align: center;
+    display: inline-table;
+    letter-spacing: 1px;
+}
+
+.spot-cover-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    gap: 10px 20px; /* row-gap column gap */
+    row-gap: 10px;
+    column-gap: 20px;
+}
+
+.list-number {
+    order: 1;
+    background-color: white;
+    height: 65px;
+    width: 65px;
+    border-radius: 50px;
+    box-shadow: 0 0 0 25px #484848;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    display: flex;
+    text-shadow: 1px 1px 2px #111111;
+    margin-left: 20px;
+}
+
+.album-cover {
+    order: 2;
+    background-color: #27884E;
+    padding: 3px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border-radius: 3px;
+    vertical-align: middle;
+    border-color: white;
+    border: 1px;
+    margin-left: 40px;
+}
+
+.album-info {
+    order: 3;
+    /* background-color: #27884E; */
+    font-size: 90%;
+    float: right;
+    border-radius: 12px;
+    margin: 20px; 
+    margin-left: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    width:auto;
+    text-shadow: 1px 1px 2px #111111;
+}
+
+.button2 {
+    margin-left: 50%; 
+    transform: translateX(-50%);
+    background-color: white;
+    color: #B22222;
+    font-family: 'Revalia', cursive;
+}
+
+.icon {
+    margin: 1px;
+    line-height: normal;
+    max-height: 48px;
+    overflow: hidden;
+}
+
+.placed-cover {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 3px;
+    width:100px;
+    max-height: 200px;
+    display: inline-block;
+    border: 2px solid white
+}
+
+.album-para {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.add-reason-form {
+    display: none
+}
+
+.comment-display {
+    display: none;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.remove-comment {
+    display: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    vertical-align: middle;
+    color: black;
+    background-color: white;
+}
+
+
+.reason-form {
+    display: block;
+    text-align: center;
+    /* background-color: lightgreen; */
+    color: 	#B22222;
+    border-radius: 12px;
+    margin: auto;
+    width: fit-content;
+    padding-left:25px;
+    padding-right:25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-shadow: 1px 1px 2px #111111;
+}
+
+#suggestion {
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 12px;
+    margin-top: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+#comment-box-header {
+    background-color: #B4F2FE;
+    width: fit-content;
+    color: black;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border-radius: 12px;
+    font-size: 30px;  
+}
+
+#comment-box{
+    background-color: white;
+    color: black;
+    margin-left: 15%;
+    text-align: left;
+    margin-right: 15%;
+    margin-top: 20px;
+    border-radius: 12px;
+    height: 200px;
+    overflow-y: scroll;
+    font-size: 80%;
+}
