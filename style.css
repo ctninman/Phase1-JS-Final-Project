@@ -131,7 +131,6 @@ input[name='reason'] {
 
 .album-info {
     order: 3;
-    /* background-color: #27884E; */
     font-size: 90%;
     float: right;
     border-radius: 12px;
@@ -198,7 +197,6 @@ input[name='reason'] {
 .reason-form {
     display: block;
     text-align: center;
-    /* background-color: lightgreen; */
     color: 	#B22222;
     border-radius: 12px;
     margin: auto;

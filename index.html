@@ -19,13 +19,11 @@
     </form>
     <div id='user-header'>
       <h2 id='userName-topten' class="header"><em>userName's Top Ten Albums</em></h2>
-            <!-- Possibly add a username input-->
     </div>
 
             <!-- *** ARTIST AND ALBUM SEARCH BAR *** -->
     <div id='album-search-results' style="text-align: center;">
-      <!-- Search bar to for albums
-      Always present at the top of page-->
+      <!-- Search bar to for albums. Always present at the top of page-->
         <p style='margin:0px'>Add an album to your TOP TEN</p>
       <form id='album-form' style="text-align: center;">
         <input type="text" id='album_terms' name="album" placeholder="Album">
@@ -47,7 +45,7 @@
         <div class='list-number'><h1 id='match-ranking-1'>1</h1></div>
         <div class='album-cover' id='cover-1'>
           <img src='images/Blue_question_mark_icon.svg.png' height="100" width="100">
-          <!-- <input id='remove-1' type="button" class='button2' text="X" value="X" style='display: none;'> -->
+          <input id='remove-1' type="button" class='button2' text="X" value="X" style='display: none;'>
         </div>
         <div class='album-info' style='background-color: #27884E'>
           <p class='album-para' id='para-1'>artist: Undefined<br>
@@ -321,16 +319,21 @@
       <input type="text" name="artistSuggest" id="artist_suggestion" placeholder="Artist of that album">
       <input type="submit" class='button' value='SUGGEST' id='search-artists'>
     </form>
-          <!-- *** DISPLAY OF OTHER USER COMMENTS *** -->
-   
+  
     <div >
       <h2 class='header' id='comment-box-header'>Suggestions</h2>
     </div>
 
-    <ul id='comment-box' style="margin-top: 20px;"></ul>
+    <ul id='comment-box' style="margin-top: 20px;">
+          <!-- *** DISPLAY OF OTHER USER COMMENTS *** --> 
+    </ul>
 
     <script src="JS_Files/JS_Data.js"></script>
     <script src="JS_Files/index.js"></script>
     <script src="JS_Files/JS_Events.js"></script>
   </body>
+
+  <footer style='font-size: 70%;'>
+    Photo by <a href="https://unsplash.com/@mirianaa_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" style="color: lightgreen;">Miriana Dorobanțu</a> on <a href="https://unsplash.com/s/photos/vinyl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" style="color: lightgreen;">Unsplash</a>
+  </footer>
 </html>

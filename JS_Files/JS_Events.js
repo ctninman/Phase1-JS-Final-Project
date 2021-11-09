@@ -139,5 +139,3 @@ suggestionForm.addEventListener('submit', (event) => {
     fetchUserData()
   suggestionForm.reset()
 })
-
-// google dataset.html event.target.dataset.id

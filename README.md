@@ -27,3 +27,6 @@ Users can add a comment about each album in their Top Ten. Comments must be ten 
 ## Add Suggestion - Other User
 
 Another user can enter their name and album from the current user's list, and then recommend another album that they think the user should check out.
+
+Background photo by <a href="https://unsplash.com/@mirianaa_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Miriana Dorobanțu</a> on <a href="https://unsplash.com/s/photos/vinyl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
