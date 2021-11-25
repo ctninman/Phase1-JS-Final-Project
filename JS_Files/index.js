@@ -114,11 +114,14 @@ function changeTopTenInfo (user, i) {
     // *** CALLED IN fetchUserData *** //
 function changeCommentsInfo (user, i) {
   if (user.albumComments[i].comment === "") {
-    displayCommentButton(i+1)
+    clearCommentBox(i+1)
+    displayCommentSection('comment-button', i+1)
     return;
   } else {
     document.getElementById(`comment-display-${i+1}`).textContent = user.albumComments[i].comment
-    displayComment(i+1)
+    clearCommentBox(i+1)
+    displayCommentSection('comment-display', i+1)
+    displayCommentSection('remove-comment', i+1)
   }
 }
 
@@ -143,27 +146,17 @@ function removeAllChildNodes(parent) {
 
     // *** SWITCH FROM COMMENT BUTTON TO FORM OR COMMENT DISPLAY *** //
     // *** CALLED IN topTen EVENT LISTENER *** //
-function displayCommentButton (number) {
+
+function clearCommentBox (number) {
   document.getElementById(`reason-${number}`).style.display = 'none'
-  document.getElementById(`comment-button-${number}`).style.display = 'inline-block'
-  document.getElementById(`comment-display-${number}`).style.display = 'none'
-  document.getElementById(`remove-comment-${number}`).style.display = 'none'
-}
-
-
-function displayCommentForm (number) {
-  document.getElementById(`reason-${number}`).style.display = 'inline-block'
   document.getElementById(`comment-button-${number}`).style.display = 'none'
   document.getElementById(`comment-display-${number}`).style.display = 'none'
   document.getElementById(`remove-comment-${number}`).style.display = 'none'
 }
 
 
-function displayComment (number) {
-  document.getElementById(`reason-${number}`).style.display = 'none'
-  document.getElementById(`comment-button-${number}`).style.display = 'none'
-  document.getElementById(`comment-display-${number}`).style.display = 'inline-block'
-  document.getElementById(`remove-comment-${number}`).style.display = 'inline-block'
+function displayCommentSection (string, number) {
+  document.getElementById(`${string}-${number}`).style.display = 'inline-block'
 }
         
 
@@ -306,7 +299,7 @@ function createNewCommentsObject (number, object) {
     // *** INSERT OBJECT AT END OF ARRAY *** //
     // *** CALLED IN suggestionForm EVENT LISTENER *** //
 function createNewSuggestionsObject (object) {
-  let newSuggestionArray = [...suggestionsDataArray, object]
+  let newSuggestionArray = [object, ...suggestionsDataArray ]
   suggestionPatch = {'albumSuggestions': newSuggestionArray}
   return suggestionPatch
 }

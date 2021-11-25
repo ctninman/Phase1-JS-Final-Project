@@ -58,14 +58,13 @@ albumSearch.addEventListener('submit', (event) => {
   event.preventDefault();
   searchDisplay.innerHTML = "";
   let albumsArray = [];
-  return fetch(url(event.target.album_terms.value, 'album'), {method: 'GET'})
+  return fetch(url(event.target.album_terms.value, 'album'))
   .then(res => res.json())
   .then(function (albumData) {
     albumsArray = albumData.results;
     albumsArray.forEach(album => renderAlbum(album));
     albumSearch.reset();
     artistSearch.reset();
-    console.log('end of album search event')
   })
 })
 
@@ -91,7 +90,10 @@ topTen.addEventListener('click', (event) => {
   if (userName === "") {alert('Please enter/create your userName.'); return;}
   if (event.target.className === 'button' && event.target.value !== "SUBMIT") {
     numRank = parseInt(event.target.id.slice(15))
-    displayCommentForm(numRank)
+    clearCommentBox(numRank)
+    displayCommentSection('reason', numRank)
+    // document.getElementById(`reason-${numRank}`).style.display = 'inline-block'
+    // displayCommentForm(numRank)
     document.getElementById(`reason-${numRank}`).addEventListener('submit', (e) => {
       e.preventDefault();
       albumComment = e.currentTarget.reason.value
@@ -99,7 +101,12 @@ topTen.addEventListener('click', (event) => {
         alert("That's not 10 words!")
       } else {
         document.getElementById(`comment-display-${numRank}`).textContent = albumComment
-        displayComment(numRank)
+        clearCommentBox(numRank)
+        displayCommentSection('comment-display', numRank)
+        displayCommentSection('remove-comment', numRank)
+        // document.getElementById(`comment-display-${numRank}`).style.display = 'inline-block'
+        // document.getElementById(`remove-comment-${numRank}`).style.display = 'inline-block'
+        // displayComment(numRank)
         let commentObject = createCommentObject (numRank, albumComment)
         createNewCommentsObject(numRank, commentObject)
         patchUserInfo(commentPatch)
@@ -115,7 +122,10 @@ topTen.addEventListener('click', event => {
     numRank = parseInt(event.target.id.slice(15))
     albumComment = ""
     document.getElementById(`comment-display-${numRank}`).textContent = albumComment
-    displayCommentButton(numRank)
+    clearCommentBox(numRank)
+    // document.getElementById(`comment-button-${numRank}`).style.display = 'inline-block'
+    // displayCommentButton(numRank)
+    displayCommentSection('comment-button', numRank)
     let commentObject = createCommentObject (numRank, albumComment)
     createNewCommentsObject(numRank, commentObject)
     patchUserInfo(commentPatch)

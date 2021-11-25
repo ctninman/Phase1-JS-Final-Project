@@ -416,6 +416,401 @@
         }
       ],
       "id": 22
+    },
+    {
+      "userName": "Chris N",
+      "albumSuggestions": [
+        {
+          "albumSuggestions": "chris loves \"Tago Mago\", too, and suggests you check out \"Deceit\" by This Heat!"
+        }
+      ],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 2,
+          "artistName": "Meridian Brothers",
+          "collectionName": "Desesperanza",
+          "primaryGenreName": "Música tropical",
+          "releaseDate": "2012",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/ab/82/01/ab8201f7-8b67-5325-a350-898fd76005e4/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 3,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 4,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 5,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 6,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 7,
+          "artistName": "SpongeBob SquarePants",
+          "collectionName": "SpongeBob's Greatest Hits",
+          "primaryGenreName": "Children's Music",
+          "releaseDate": "2009",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/a8/4b/f5/a84bf568-f53b-7ccb-be15-79f6831eb749/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 8,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 9,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 10,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": "Because I realy reaaly really realllllly realy reeeely like it"
+        },
+        {
+          "ranking": 2,
+          "comment": "Pure adrenaline shot without break. Perfectly timed at 30 minutes."
+        },
+        {
+          "ranking": 3,
+          "comment": "Pure adrenaline shot without break. Perfectly timed at 30 minutes."
+        },
+        {
+          "ranking": 4,
+          "comment": ""
+        },
+        {
+          "ranking": 5,
+          "comment": ""
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": "Space rock, sludge, black metal, ambient, and all done masterfully."
+        },
+        {
+          "ranking": 8,
+          "comment": ""
+        },
+        {
+          "ranking": 9,
+          "comment": "Pure adrenaline shot without break. Perfectly timed at 30 minutes."
+        },
+        {
+          "ranking": 10,
+          "comment": "Pure adrenaline shot without break. Perfectly timed at 30 minutes."
+        }
+      ],
+      "id": 23
+    },
+    {
+      "userName": "Mwommy",
+      "albumSuggestions": [
+        {
+          "albumSuggestions": "Baby loves \"Piano Man\", too, and suggests you check out \"GoodBye Yellow Brick Road\" by Elton John!"
+        }
+      ],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 2,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 3,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 4,
+          "artistName": "Billy Joel",
+          "collectionName": "Piano Man",
+          "primaryGenreName": "Rock",
+          "releaseDate": "1998",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/4f/9f/33/4f9f332c-0757-2925-7102-ba3399c16640/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 5,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 6,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 7,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 8,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 9,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 10,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": ""
+        },
+        {
+          "ranking": 2,
+          "comment": ""
+        },
+        {
+          "ranking": 3,
+          "comment": ""
+        },
+        {
+          "ranking": 4,
+          "comment": "Because I realy reaaly really realllllly realy really like it"
+        },
+        {
+          "ranking": 5,
+          "comment": ""
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": ""
+        },
+        {
+          "ranking": 8,
+          "comment": ""
+        },
+        {
+          "ranking": 9,
+          "comment": ""
+        },
+        {
+          "ranking": 10,
+          "comment": ""
+        }
+      ],
+      "id": 24
+    },
+    {
+      "userName": "loobylawn's MPB",
+      "albumSuggestions": [],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "Novos Baianos",
+          "collectionName": "Acabou Chorare",
+          "primaryGenreName": "MPB",
+          "releaseDate": "2013",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/9c/4e/5a/9c4e5a71-ec4f-4578-3262-512eaddcb17c/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 2,
+          "artistName": "Tom Zé",
+          "collectionName": "Estudando o samba",
+          "primaryGenreName": "Brazilian",
+          "releaseDate": "1976",
+          "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/0e/27/fb/0e27fbe9-2390-8cf1-fa19-64f0f816aa3b/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 3,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 4,
+          "artistName": "Elza Soares",
+          "collectionName": "Deus É Mulher",
+          "primaryGenreName": "MPB",
+          "releaseDate": "2018",
+          "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/d7/3f/ee/d73fee51-8d53-8903-c3d5-90ae85ed81ff/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 5,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 6,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 7,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 8,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 9,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 10,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": ""
+        },
+        {
+          "ranking": 2,
+          "comment": ""
+        },
+        {
+          "ranking": 3,
+          "comment": ""
+        },
+        {
+          "ranking": 4,
+          "comment": ""
+        },
+        {
+          "ranking": 5,
+          "comment": ""
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": ""
+        },
+        {
+          "ranking": 8,
+          "comment": ""
+        },
+        {
+          "ranking": 9,
+          "comment": ""
+        },
+        {
+          "ranking": 10,
+          "comment": ""
+        }
+      ],
+      "id": 25
     }
   ]
 }
