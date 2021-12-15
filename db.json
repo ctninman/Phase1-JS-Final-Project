@@ -99,7 +99,7 @@
       "albumComments": [
         {
           "ranking": 1,
-          "comment": "Creative, innovative, experimental, playful, with trance-inducting grooves. Journey through space"
+          "comment": "Pure adrenaline shot without break. Perfectly timed at 30 minutes."
         },
         {
           "ranking": 2,
@@ -811,6 +811,135 @@
         }
       ],
       "id": 25
+    },
+    {
+      "userName": "Poppyseed",
+      "albumSuggestions": [],
+      "albums": [
+        {
+          "ranking": 1,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 2,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 3,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 4,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 5,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 6,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 7,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 8,
+          "artistName": "Harry Nilsson",
+          "collectionName": "Nilsson Schmilsson",
+          "primaryGenreName": "Rock",
+          "releaseDate": "1971",
+          "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/87/cc/1e/87cc1e49-d71f-3369-9d7f-13fef52a891e/source/100x100bb.jpg"
+        },
+        {
+          "ranking": 9,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        },
+        {
+          "ranking": 10,
+          "artistName": "???",
+          "collectionName": "???",
+          "primaryGenreName": "???",
+          "releaseDate": "???",
+          "artworkUrl100": "images/Blue_question_mark_icon.svg.png"
+        }
+      ],
+      "albumComments": [
+        {
+          "ranking": 1,
+          "comment": ""
+        },
+        {
+          "ranking": 2,
+          "comment": ""
+        },
+        {
+          "ranking": 3,
+          "comment": ""
+        },
+        {
+          "ranking": 4,
+          "comment": ""
+        },
+        {
+          "ranking": 5,
+          "comment": ""
+        },
+        {
+          "ranking": 6,
+          "comment": ""
+        },
+        {
+          "ranking": 7,
+          "comment": ""
+        },
+        {
+          "ranking": 8,
+          "comment": ""
+        },
+        {
+          "ranking": 9,
+          "comment": ""
+        },
+        {
+          "ranking": 10,
+          "comment": ""
+        }
+      ],
+      "id": 26
     }
   ]
 }
